@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AasthaChaturvedi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Android programming
+- 🌱 I’m currently learning python, sql, power BI, tableau
 - 📫 How to reach me : aasthachaturvedi0909@gmail.com
 
 <!---
